@@ -1,1 +1,2 @@
-print system information
+#!/bin/bash
+unmae
